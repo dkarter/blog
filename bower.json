@@ -1,0 +1,23 @@
+{
+  "name": "blog",
+  "homepage": "https://doriankarter.com",
+  "authors": [
+    "Dorian Karter <jobs@doriankarter.com>"
+  ],
+  "description": "Dorian Karter's Personal Blog",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.5.0"
+  }
+}

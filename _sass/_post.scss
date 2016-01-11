@@ -1,0 +1,21 @@
+.about-the-author {
+  .container {
+    text-align: left; 
+    padding: 0;
+    display: flex;
+
+    .avatar { padding: 0; }
+
+    .img-circle {
+      width: 80%;
+      border-radius: 0
+    }
+
+    h3 {
+      font-size: 20px;
+      margin: 0;
+      display: inline-block;
+    }
+  }
+
+}

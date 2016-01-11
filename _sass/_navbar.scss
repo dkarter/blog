@@ -3,63 +3,63 @@
 }
 
 .navbar-default {
-  background-color: #ffffff;
-  border-color: #ffffff;
+  background-color: $background-color;
+  border-color: $background-color;
 
   .navbar-brand {
-    color: #6b6b6b;
+    color: $muted-text-color;
 
     &:hover,
     &:focus {
-      color: #6b6b6b;
+      color: $muted-text-color;
     }
   }
 
   .navbar-text {
-    color: #6b6b6b;
+    color: $muted-text-color;
   }
 
   .navbar-nav {
     > li > a {
-      color: #6b6b6b;
+      color: $muted-text-color;
     }
 
     &:hover,
     &:focus {
-      color: #6b6b6b;
+      color: $muted-text-color;
     }
 
     > .active > a
     > .active > a:hover,
     > .active > a:focus {
-      color: #6b6b6b;
-      background-color: #ffffff;
+      color: $muted-text-color;
+      background-color: $background-color;
     }
 
     > .open > a,
     > .open > a:hover,
     > .open > a:focus {
-      color: #6b6b6b;
-      background-color: #ffffff;
+      color: $muted-text-color;
+      background-color: $background-color;
 
 
       @media (max-width: 767px) {
         .dropdown-menu > li > a {
-          color: #6b6b6b;
+          color: $muted-text-color;
         }
 
         .dropdown-menu  {
           > li > a:hover,
           > li > a:focus {
-            color: #6b6b6b;
+            color: $muted-text-color;
           }
 
 
           > .active > a,
           > .active > a:hover,
           > .active > a:focus {
-            color: #6b6b6b;
-            background-color: #ffffff;
+            color: $muted-text-color;
+            background-color: $background-color;
           }
         }
 
@@ -69,29 +69,29 @@
 
 
   .navbar-toggle {
-    border-color: #ffffff;
+    border-color: $background-color;
 
     &:hover,
     &:focus {
-      background-color: #ffffff;
+      background-color: $background-color;
     }
 
     .icon-bar {
-      background-color: #6b6b6b;
+      background-color: $muted-text-color;
     }
   }
 
 
   .navbar-collapse,
   .navbar-form {
-    border-color: #6b6b6b;
+    border-color: $muted-text-color;
   }
 
   .navbar-link {
-    color: #6b6b6b;
+    color: $muted-text-color;
 
     &:hover {
-      color: #6b6b6b;
+      color: $muted-text-color;
     }
   }
 

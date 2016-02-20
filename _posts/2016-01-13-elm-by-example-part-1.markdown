@@ -39,7 +39,7 @@ Consider the above to be Part 0.
 ## Getting Elm
 To get started you will need to install Elm on your machine.
 
-```bash
+```sh
 npm update && npm install -g elm
 ```
 
@@ -56,7 +56,7 @@ Create a project directory and cd into it.
 
 Install the following packages:
 
-```bash
+```sh
 elm package install evancz/elm-html
 elm package install evancz/start-app
 elm package install circuithub/elm-html-extra

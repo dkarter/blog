@@ -13,7 +13,7 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://dkarter.github.io/
-baseurl: /
+baseurl: /blog
 title: Dorian Karter
 author: Dorian Karter
 description: Personal blog and resume

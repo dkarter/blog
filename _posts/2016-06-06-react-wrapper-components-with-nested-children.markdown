@@ -15,7 +15,7 @@ Say you want to create a component that acts as a wrapper such that you can pass
 
 This can be achieved by using this.props.children as in this example:
 
-```jsx
+```javascript
 class WrapperComponent extends Component {
   render() {
     return (
@@ -52,6 +52,6 @@ Mounting App will produce the following markup:
 <div class="wrapper">
   <h1>I am the wrapper</h1>
   <p>Hello from child component</p>
-  </div>
+</div>
 ```
 

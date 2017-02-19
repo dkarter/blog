@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/doriankarter
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://doriankarter.com
+  * I am doriankarter (https://keybase.io/doriankarter) on keybase.
+  * I have a public key ASDQtkGNlS0bRsrTqYHz2kqjQc6apoPAX57DM2eFbJI2igo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120d0b6418d952d1b46cad3a981f3da4aa341ce9aa683c05f9ec33367856c92368a0a",
+            "host": "keybase.io",
+            "kid": "0120d0b6418d952d1b46cad3a981f3da4aa341ce9aa683c05f9ec33367856c92368a0a",
+            "uid": "f0d4c1aea71103cf7b305735bec3fb19",
+            "username": "doriankarter"
+        },
+        "service": {
+            "hostname": "doriankarter.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1487497880,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1487497553,
+        "hash": "dda3eea01f103fb2e06b97e41ac8a6335e1c0d843a9ff1c15a5accfd3b7f091536ba87c0368bd1ed9522b69b8111b73efc852e1aa69aa66b66d2703638ee19b3",
+        "seqno": 905133
+    },
+    "prev": "a447293db7b9094c6d7686ff3f2ed78074e3e08f187b53a9196895aa3def1b5c",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg0LZBjZUtG0bK06mB89pKo0HOmqaDwF+ewzNnhWySNooKp3BheWxvYWTFAvx7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZDBiNjQxOGQ5NTJkMWI0NmNhZDNhOTgxZjNkYTRhYTM0MWNlOWFhNjgzYzA1ZjllYzMzMzY3ODU2YzkyMzY4YTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZDBiNjQxOGQ5NTJkMWI0NmNhZDNhOTgxZjNkYTRhYTM0MWNlOWFhNjgzYzA1ZjllYzMzMzY3ODU2YzkyMzY4YTBhIiwidWlkIjoiZjBkNGMxYWVhNzExMDNjZjdiMzA1NzM1YmVjM2ZiMTkiLCJ1c2VybmFtZSI6ImRvcmlhbmthcnRlciJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZG9yaWFua2FydGVyLmNvbSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDg3NDk3ODgwLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0ODc0OTc1NTMsImhhc2giOiJkZGEzZWVhMDFmMTAzZmIyZTA2Yjk3ZTQxYWM4YTYzMzVlMWMwZDg0M2E5ZmYxYzE1YTVhY2NmZDNiN2YwOTE1MzZiYTg3YzAzNjhiZDFlZDk1MjJiNjliODExMWI3M2VmYzg1MmUxYWE2OWFhNjZiNjZkMjcwMzYzOGVlMTliMyIsInNlcW5vIjo5MDUxMzN9LCJwcmV2IjoiYTQ0NzI5M2RiN2I5MDk0YzZkNzY4NmZmM2YyZWQ3ODA3NGUzZTA4ZjE4N2I1M2E5MTk2ODk1YWEzZGVmMWI1YyIsInNlcW5vIjo5LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQC4Elmwt7v68ojc7dQaBB+7NlNvwZ2pc2+7MWm6WW8LPDEvI3DukdNkPis6f71E9/upqk1cvBuX8w7iqEDvtFgOoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAV5gt2VgWZL8gAcNR1dWZpr5rilvzftAUQgRwsTRYhHaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/doriankarter
+
+==================================================================

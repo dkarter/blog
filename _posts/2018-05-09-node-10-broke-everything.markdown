@@ -4,9 +4,9 @@ title: "Node 10 Broke Everything"
 date: "2018-05-09 19:04:10 -0500"
 ---
 
-## What happened
-TL;DR homebrew updated my node version to 10.0.0 which broke things particularly
-with global packages installed through Yarn.
+## What Happened
+> TL;DR homebrew updated my node version to 10.0.0 which broke things
+> particularly with global packages installed through Yarn.
 
 Recently I noticed a bunch of plugins in Vim that rely on npm packages started
 displaying weird error messages. (Specifically `Galooshi/vim-import-js`) I also
@@ -33,14 +33,14 @@ In my project I had cemented Node version 9.11.1 (`asdf current nodejs 9.11.1`)
 in hopes that this would fix the issue, but every time I opened Vim I would
 still get the error from import-js.
 
-Yarn global package installation was completely broken and was ignoring my node
-settings in my project
+Yarn global package installation was completely broken and was ignoring my
+cemented node version in my project directory. The error mentioned v10.0.0.
 
 I have since noticed similar issues on other machines in my office which
 prompted me to write this blog post.
 
 
-## How to fix it
+## How to Fix It
 First check if you have **Yarn** installed through homebrew
 
 ```sh

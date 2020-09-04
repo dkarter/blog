@@ -13,8 +13,19 @@ displaying weird error messages. (Specifically `Galooshi/vim-import-js`) I also
 noticed that any attempt to install node modules globally would ultimately fail
 due to native extensions compilation.
 
-I no longer have the exact error message but it had something to do with failure
-to compile sqlite3 with Node 10.0.0.
+```
+Error detected while processing function <SNR>226_JobHandler:
+line    7:
+import-js error: internal/modules/cjs/loader.js:550     throw err;     ^  Error: Cannot find module '/Users/dkar
+ter/.config/yarn/global/node_modules/sqlite3/lib/binding/node-v59-darwin-x64/node_sqlite3.node'     at Function.
+Module._resolveFilename (internal/modules/cjs/loader.js:548:15)     at Function.Module._load (internal/modules/c
+js/loader.js:475:25)     at Module.require (internal/modules/cjs/loader.js:598:17)     at require (internal/modu
+les/cjs/helpers.js:11:18)     at Object.<anonymous> (/Users/dkarter/.config/yarn/global/node_modules/sqlite3/lib
+/sqlite3.js:4:15)     at Module._compile (internal/modules/cjs/loader.js:654:30)     at Object.Module._extension
+s..js (internal/modules/cjs/loader.js:665:10)     at Module.load (internal/modules/cjs/loader.js:566:32)     at
+tryModuleLoad (internal/modules/cjs/loader.js:506:12)     at Function.Module._load (internal/modules/cjs/loader.
+js:498:3)
+```
 
 Wait what!? Node 10.0.0??? Where did that come from?
 
